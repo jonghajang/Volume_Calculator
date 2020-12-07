@@ -24,8 +24,8 @@ numpy = 1.18.4, nibabel = 2.4.0, pandas = 0.24.2:
 
 ## How to Use
 
-> 1. Insert the image to measure the volume in the segment_image_file.
+> 1. Insert the image to measure the volume in the "segment_image_file" folder.
 
 > 2. Enter python ./volume_calculator.py
 
-> 3. The output csv file in "result"
+> 3. The output csv file in "result "
