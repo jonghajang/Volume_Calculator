@@ -10,15 +10,17 @@ Use volume_calculator.py to measure the 2D,3D volume of the Nii image that needs
 The "nii.gz" file in the "segment_image_file" folder is input, and the output is saved in the "result" folder in csv format.
 
 ## Requirements
+
+* [os](https://pypi.org/project/os-sys/)
+* [numpy](https://pypi.org/project/numpy/)
+* [matplotlib](https://pypi.org/project/matplotlib/)
+* [nibabel](https://pypi.org/project/nibabel/)
+* [pandas](https://pypi.org/project/pandas/)
+* [glob](https://pypi.org/project/glob2/)
+
 numpy = 1.18.4, nibabel = 2.4.0, pandas = 0.24.2:
 
-    import os
-    import os.path as path
-    import numpy as np
-    import matplotlib.pyplot as plt
-    import nibabel as nib
-    import pandas as pd
-    import glob
+
     
 end code block.
 
