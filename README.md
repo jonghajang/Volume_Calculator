@@ -1,4 +1,4 @@
-# Volume Calculator
+# Volume Calculator(nii)
 
 ![imag](https://user-images.githubusercontent.com/66405055/101341321-41959680-38c4-11eb-9b58-046df56947d5.PNG)
 
