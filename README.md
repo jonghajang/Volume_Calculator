@@ -21,8 +21,6 @@ The "nii.gz" file in the "segment_image_file" folder is input, and the output is
 numpy = 1.18.4, nibabel = 2.4.0, pandas = 0.24.2:
 
 
-    
-end code block.
 
 ## How to Use
 
